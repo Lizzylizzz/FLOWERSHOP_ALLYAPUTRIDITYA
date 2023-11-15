@@ -1,6 +1,6 @@
-Nama            : Allya Putri Ditya
-NIM             : 2309116078
-Tema Program    : Flower Shop
+# Nama            : Allya Putri Ditya
+# NIM             : 2309116078
+# Tema Program    : Flower Shop
 
 from prettytable import PrettyTable
 
